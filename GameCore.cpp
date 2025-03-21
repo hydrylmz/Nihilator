@@ -222,7 +222,7 @@ void GameCore::run() {
     // Main loop flag
     bool quit = false;
 
-    // Event handler
+    // Event handler  
     SDL_Event e;
 
     SDL_SetRenderDrawColor(nRenderer, 0, 0, 0, 255);
